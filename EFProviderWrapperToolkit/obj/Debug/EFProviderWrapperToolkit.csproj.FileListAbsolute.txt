@@ -1,0 +1,7 @@
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.pdb
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll.CodeAnalysisLog.xml
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll.lastcodeanalysissucceeded
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\obj\Debug\EFProviderWrapperToolkit.csprojResolveAssemblyReference.cache
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\obj\Debug\EFProviderWrapperToolkit.dll
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\obj\Debug\EFProviderWrapperToolkit.pdb

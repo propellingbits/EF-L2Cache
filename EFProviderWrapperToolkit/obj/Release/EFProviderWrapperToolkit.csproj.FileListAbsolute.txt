@@ -1,0 +1,5 @@
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Release\EFProviderWrapperToolkit.dll
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Release\EFProviderWrapperToolkit.pdb
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\obj\Release\EFProviderWrapperToolkit.csprojResolveAssemblyReference.cache
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\obj\Release\EFProviderWrapperToolkit.dll
+C:\Mandeep\Projects\nopCommerce_2.80_Source\EFProvider Wrappers\EFProviderWrapperToolkit\obj\Release\EFProviderWrapperToolkit.pdb
